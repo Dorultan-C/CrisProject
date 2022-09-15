@@ -6,7 +6,14 @@
   --color-body:#918ca4;
 }
 
+
+
+
   /* Topography */
+
+
+
+
 
 html {
   /* 62.5% of 16px = 10px */
@@ -62,7 +69,15 @@ p {
     text-decoration: none;
   }
 
+
+
+
+
     /* Links */
+
+
+
+
 
     .link-arrow {
     
@@ -89,7 +104,16 @@ p {
       }
     }
 
+
+
+
+
     /* Badges */
+
+
+
+
+
 
     .badge {
       border-radius: 20px;
@@ -123,7 +147,16 @@ p {
   }
 }
 
+
+
+
+
 /* Lists */
+
+
+
+
+
 
    .list {
    list-style: none;
@@ -152,7 +185,15 @@ p {
     }
   }
 
+
+
+
+
   /* Icons */
+
+
+
+
 
   .icon {
     width: 40px;
@@ -172,3 +213,23 @@ p {
     justify-content: center;
     align-items: center;
   }
+
+
+
+
+  /* Buttons */
+
+
+
+
+
+  .btn {
+    font-size: 1.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding: 2rem 3rem;
+    border: 0;
+    border-radius: 40px;
+  }
+
+  
